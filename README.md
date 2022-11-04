@@ -36,3 +36,5 @@
 
 - 관리자 페이지 조회, 분류 추가/삭제
 ![image](https://user-images.githubusercontent.com/113487440/199936568-a3dc51b1-1f75-4211-ac71-25641b2c15dd.png)
+
+- 커뮤니티 글 작성/삭제/수정 (비로그인 열람 접근제한만 해제)
