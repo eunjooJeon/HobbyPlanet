@@ -28,7 +28,7 @@
 - user - id : hobbyp, password : hobbyp
 
 **구현한 기능**
-- 게시판 글 작성/삭제/수정
+- 공지사항 게시판 글 작성/삭제/수정
 ![image](https://user-images.githubusercontent.com/113487440/199936344-805d12be-1f7d-4254-ae52-ef11e2e1fb1e.png)
 
 - 페이징/검색
